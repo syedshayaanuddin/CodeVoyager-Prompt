@@ -1,1 +1,0 @@
-# CodeVoyager-Prompt
